@@ -21,6 +21,7 @@ To-do list for my tobowork
 11. ... and adding new photos...
 12. ... and adding new categories or just adding existing category
 13. ... and I say:"Yeah, please publish it, love"
+14. If all is okey, I start from to-do #1
 
 
 #2nd - Wordpress
@@ -40,6 +41,7 @@ To-do list for my tobowork
 11. ... and adding new photos...
 12. ... and adding new categories or just adding existing category
 13. ... and I say:"Yeah, please publish it, love"
+14. If all is okey, I start from to-do #1
 
 
 #3th - VK
@@ -59,6 +61,7 @@ To-do list for my tobowork
 11. ... and adding new photos...
 12. ... and adding new categories or just adding existing category
 13. ... and I say:"Yeah, please publish it, love"
+14. If all is okey, I start from to-do #1
 
 
 Hi. It's Github and local machine
