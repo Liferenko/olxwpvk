@@ -60,3 +60,5 @@ To-do list for my tobowork
 12. ... and adding new categories or just adding existing category
 13. ... and I say:"Yeah, please publish it, love"
 
+
+Hi. It's Github and local machine
