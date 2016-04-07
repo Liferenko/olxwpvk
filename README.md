@@ -64,4 +64,9 @@ To-do list for my tobowork
 14. If all is okey, I start from to-do #1
 
 
-Hi. It's Github and local machine
+---
+For todo #1
+
+Google Drive API's guide and "how-to" - https://developers.google.com/api-client-library/python/?hl=ru
+Google Drive on github - https://github.com/googledrive
+Stack overflow for G Drive API - https://stackoverflow.com/questions/tagged/google-drive-sdk

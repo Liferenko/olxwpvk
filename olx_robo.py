@@ -1,6 +1,31 @@
 #olx_robo
 
 				#1. Connect to gDrive spreadsheets 
+""" I was installing pip and PyDrive.
+Right now add from pypi.python.org/pypi/PyDrive
+1st step - adding OAuth..."""
+from pydrive.auth import GoogleAuth
+from pydrive.drive import GoogleDrive
+
+gauth = GoogleAuth()
+gauth.LocalWebserverAuth()
+
+drive = GoogleDrive(gauth)
+
+
+
+#RedGreenLight Test
+test = 1 #this var is RedGreenLight
+
+def RGtest(test):
+	if test >= 0:
+		return "Green"
+	elif test == True:
+		return "Green"
+	else:
+		return Red
+print ("You have %s light" % (RGtest(test)))
+#RedGreenLight Test
 
 				#2. Understand which raws I should listen and check; 
 
