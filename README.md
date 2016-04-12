@@ -21,6 +21,7 @@ To-do list for my tobowork
 11. ... and adding new photos...
 12. ... and adding new categories or just adding existing category
 13. ... and I say:"Yeah, please publish it, love"
+13-1. Check publishing post. Does post publich: True or False.
 14. If all is okey, I start from to-do #1
 
 
@@ -38,9 +39,10 @@ To-do list for my tobowork
 8. ... and adding new title inside it...
 9. ... and adding new descr...
 10. ... and adding new thumbnail...
-11. ... and adding new photos...
-12. ... and adding new categories or just adding existing category
-13. ... and I say:"Yeah, please publish it, love"
+> 11. ... and adding new photos...
+> 12. ... and adding new categories or just adding existing category
+> 13. ... and I say:"Yeah, please publish it, love"
+> 13-1. Check publishing post. Does post publich: True or False.
 14. If all is okey, I start from to-do #1
 
 
@@ -61,6 +63,7 @@ To-do list for my tobowork
 11. ... and adding new photos...
 12. ... and adding new categories or just adding existing category
 13. ... and I say:"Yeah, please publish it, love"
+13-1. Check publishing post. Does post publich: True or False.
 14. If all is okey, I start from to-do #1
 <<<<<<< HEAD
 
@@ -71,5 +74,9 @@ For todo #1
 Google Drive API's guide and "how-to" - https://developers.google.com/api-client-library/python/?hl=ru
 Google Drive on github - https://github.com/googledrive
 Stack overflow for G Drive API - https://stackoverflow.com/questions/tagged/google-drive-sdk
+
+
+For OLX
+Unofficial OLX API - https://github.com/umayr/olx/tree/master/olx.api
 =======
 >>>>>>> origin/master
